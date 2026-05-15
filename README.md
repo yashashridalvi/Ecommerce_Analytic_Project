@@ -5,6 +5,7 @@
 This project analyzes an e-commerce business dataset using SQL and Power BI to identify sales trends, profitability issues, customer behavior, and business growth opportunities.
 
 The objective of the project is to transform raw transactional data into actionable business insights through data analysis and interactive visualizations.
+
 ---
 
 # 🎯 Business Problem
